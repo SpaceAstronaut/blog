@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Space Astronaut</title>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2019-05-29T01:49:47+03:00</updated>
+    <author>
+        <name>Space Astronaut</name>
+    </author>
+    <id></id>
+
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Space Astronaut</name>
+        </author>
+        <link href="/hello/"/>
+        <id>/hello/</id>
+
+        <updated>2019-05-29T01:49:40+03:00</updated>
+            <summary>
+                <![CDATA[
+                    I know you waited me
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                I know you waited me
+            ]]>
+        </content>
+    </entry>
+</feed>

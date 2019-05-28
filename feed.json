@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Space Astronaut",
+    "description": "",
+    "home_page_url": "",
+    "feed_url": "/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Space Astronaut"
+    },
+    "items": [
+        {
+            "id": "/hello/",
+            "url": "/hello/",
+            "title": "Hello",
+            "summary": "I know you waited me",
+            "content_html": "I know you waited me",
+            "author": {
+                "name": "Space Astronaut"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-29T01:49:40+03:00",
+            "date_modified": "2019-05-29T01:49:40+03:00"
+        }
+    ]
+}
